@@ -1,0 +1,37 @@
+ Enter 1 for manager to upadate the Page . 
+
+ Enter 2 for employee to read the Page . 
+
+ Enter 3 if you do not want to continue / wanna come out of loop . 
+Enter an integer: 1
+
+
+ Your Request ahs been granted .Now upadte the page . 
+Enter an integer: 2
+
+
+ Sorry , your request can't be granted because amnager is updating sonthing in webPage. Plz wait or if in next iteration you again request then definetly you get chance to upadte the page 
+Enter an integer: 2
+
+
+ Your Request ahs been granted .Now you can read the page . 
+Enter an integer: 1
+
+
+ Sorry sir  , your request can't be granted because some employee are raeding the shared page. Plz wait or if in next iteration you again request then definetly you get chance to upadte the page. 
+Enter an integer: 2
+
+
+ Sorry , your request can't be granted because amnager is updating sonthing in webPage. Plz wait or if in next iteration you again request then definetly you get chance to upadte the page 
+Enter an integer: 1
+
+
+ Sorry sir  , your request can't be granted because some employee are raeding the shared page. Plz wait or if in next iteration you again request then definetly you get chance to upadte the page. 
+Enter an integer: 1
+
+
+ Your Request ahs been granted .Now upadte the page .
+Enter an integer: 3
+
+
+ for enjoying my software solution to manager employee problem
