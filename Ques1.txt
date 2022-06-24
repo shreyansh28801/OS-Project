@@ -1,0 +1,10 @@
+Q1. In a company, there are one manager and N employees. A shared web page is made for the 
+convenience of employees wherein the manager is allowed to post various notices, schedules etc.
+and employees are supposed to read this page. In order to efficiently handle this shared page 
+between the manager and the N employees, the following conditions must be satisfied:
+1. Any number of employees can see the notices posted on the web page.
+2. While manager is posting/updating the notice, no employee can see the post
+3. While any employee is seeing the post, the manager should not be allowed to update the 
+post on the web page.
+Write the C Program for manager and employee processes using binary semaphores and shared 
+variables to achieve the expected synchronization
