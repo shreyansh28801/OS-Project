@@ -1,0 +1,16 @@
+Q2. Implement any one of SRTF (pre-emptive), SJF(non-pre-emptive) and Round Robin CPU 
+scheduling(quantum=5) algorithms for the sample data given below. Assume all processes are CPU 
+bound. 
+Process Name Arrival Time CPU Burst I/O Burst 
+P0 0 24 2 units after every 
+5 unit of CPU burst 
+P1 3 17 3 units after every 
+6 unit of CPU burst 
+P2 8 50 2 units after every 
+5 unit of CPU burst 
+P3 15 10 3 units after every 
+6 unit of CPU burst 
+All programs should print various performance measures (turnaround time, waiting time, response 
+time for each process and system throughput) 
+Assume that there is only one CPU and one I/O device in the system. The I/O device can be assumed 
+to be sequential i.e. it serves only one process at a time.
