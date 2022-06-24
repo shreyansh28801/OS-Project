@@ -1,0 +1,254 @@
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0         0        24        -1                   0                   2         5
+                   P1         3        17        -1                   0                   3         6
+                   P2         8        50        -1                   0                   2         5
+                   P3        15        10        -1                   0                   3         6
+
+current time is 0
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0         7        19        -1                   2                   2         5
+                   P1         3        17        -1                   0                   3         6
+                   P2         8        50        -1                   0                   2         5
+                   P3        15        10        -1                   0                   3         6
+
+
+
+current time is 5
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0         7        19        -1                   2                   2         5
+                   P1        14        11        -1                   3                   3         6
+                   P2         8        50        -1                   0                   2         5
+                   P3        15        10        -1                   0                   3         6
+
+
+
+current time is 11
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        18        14        -1                   4                   2         5
+                   P1        14        11        -1                   3                   3         6
+                   P2         8        50        -1                   0                   2         5
+                   P3        15        10        -1                   0                   3         6
+
+
+
+current time is 16
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        18        14        -1                   4                   2         5
+                   P1        14        11        -1                   3                   3         6
+                   P2         8        50        -1                   0                   2         5
+                   P3        25         4        -1                   3                   3         6
+
+
+
+current time is 22
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        18        14        -1                   4                   2         5
+                   P1        31         5        -1                   6                   3         6
+                   P2         8        50        -1                   0                   2         5
+                   P3        25         4        -1                   3                   3         6
+
+
+
+current time is 28
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        18        14        -1                   4                   2         5
+                   P1        31         5        -1                   6                   3         6
+                   P2         8        50        -1                   0                   2         5
+                   P3        37         0        -1                   6                   3         6
+
+
+
+current time is 34
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        18        14        -1                   4                   2         5
+                   P1        43         0        -1                   9                   3         6
+                   P2         8        50        -1                   0                   2         5
+                   P3        37         0        -1                   6                   3         6
+
+
+
+current time is 40
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        47         9        -1                   6                   2         5
+                   P1        43         0        -1                   9                   3         6
+                   P2         8        50        -1                   0                   2         5
+                   P3        37         0        -1                   6                   3         6
+
+
+
+current time is 45
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        47         9        -1                   6                   2         5
+                   P1        43         0        -1                   9                   3         6
+                   P2        52        45        -1                   2                   2         5
+                   P3        37         0        -1                   6                   3         6
+
+
+
+current time is 50
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        57         4        -1                   8                   2         5
+                   P1        43         0        -1                   9                   3         6
+                   P2        52        45        -1                   2                   2         5
+                   P3        37         0        -1                   6                   3         6
+
+
+
+current time is 55
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        57         4        -1                   8                   2         5
+                   P1        43         0        -1                   9                   3         6
+                   P2        62        40        -1                   4                   2         5
+                   P3        37         0        -1                   6                   3         6
+
+
+
+current time is 60
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        67         0        -1                  10                   2         5
+                   P1        43         0        -1                   9                   3         6
+                   P2        62        40        -1                   4                   2         5
+                   P3        37         0        -1                   6                   3         6
+
+
+
+current time is 65
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        67         0        -1                  10                   2         5
+                   P1        43         0        -1                   9                   3         6
+                   P2        72        35        -1                   6                   2         5
+                   P3        37         0        -1                   6                   3         6
+
+
+
+current time is 70
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        67         0        -1                  10                   2         5
+                   P1        43         0        -1                   9                   3         6
+                   P2        77        30        -1                   8                   2         5
+                   P3        37         0        -1                   6                   3         6
+
+
+
+current time is 75
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        67         0        -1                  10                   2         5
+                   P1        43         0        -1                   9                   3         6
+                   P2        82        25        -1                  10                   2         5
+                   P3        37         0        -1                   6                   3         6
+
+
+
+current time is 80
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        67         0        -1                  10                   2         5
+                   P1        43         0        -1                   9                   3         6
+                   P2        87        20        -1                  12                   2         5
+                   P3        37         0        -1                   6                   3         6
+
+
+
+current time is 85
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        67         0        -1                  10                   2         5
+                   P1        43         0        -1                   9                   3         6
+                   P2        92        15        -1                  14                   2         5
+                   P3        37         0        -1                   6                   3         6
+
+
+
+current time is 90
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        67         0        -1                  10                   2         5
+                   P1        43         0        -1                   9                   3         6
+                   P2        97        10        -1                  16                   2         5
+                   P3        37         0        -1                   6                   3         6
+
+
+
+current time is 95
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        67         0        -1                  10                   2         5
+                   P1        43         0        -1                   9                   3         6
+                   P2       102         5        -1                  18                   2         5
+                   P3        37         0        -1                   6                   3         6
+
+
+
+current time is 100
+
+
+Array of Processes
+                pro. name    A.T.     B.T.      C .T .       time spent in I/o          I/o condition given
+                   P0        67         0        -1                  10                   2         5
+                   P1        43         0        -1                   9                   3         6
+                   P2       107         0        -1                  20                   2         5
+                   P3        37         0        -1                   6                   3         6
+        
+
+
+ Now Final Answer
+Array of Processes
+pro. name    A.T.     B.T. C .T .TurnArornd Time    WatingTime      Response Time
+   P0       0        0     67             67             67              0
+   P1       3        0     43             40             40              2
+   P2       8        0    107             99             99             37
+   P3      15        0     37             22             22              1
